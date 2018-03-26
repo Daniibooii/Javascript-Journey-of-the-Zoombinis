@@ -13,9 +13,9 @@ node script.js<br>
 From there, just answer the prompts, and think logically!<br>
 
 ## Notes
-A recent group project emphasized for me my relative weakness with Javascript;<br>
-espcially "vanilla," or JQuery-less, Javascript.<br>
-This is an effort to correct that deficiency with practice, practice, practice!<br>
+A recent group project emphasized for me my love of Javascript;<br>
+espcially with JQuery.<br>
+This is an effort to improve with practice, practice, practice!<br>
 
 ## Resources
 https://www.myabandonware.com/game/logical-journey-of-the-zoombinis-3ei<br>
